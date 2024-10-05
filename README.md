@@ -16,7 +16,8 @@ Dashboards filtered by departments
 ![image](https://github.com/user-attachments/assets/510077a4-dfdf-4ace-a0d9-2c76a4e63102)
 
 # Human Resources
-![image](https://github.com/user-attachments/assets/5f383fbe-5a49-4ef4-a6e6-75ac35e06a7c)
+![image](https://github.com/user-attachments/assets/5eb40e4b-cef8-4254-867f-41ccec83bce2)
+
 
 # Sales
 ![image](https://github.com/user-attachments/assets/51ac7c44-f927-4b6c-a2c4-472c49d70ce4)
