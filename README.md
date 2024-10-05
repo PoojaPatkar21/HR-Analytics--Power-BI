@@ -12,10 +12,10 @@ Through this project, organizations will gain valuable insights into the factors
 ![image](https://github.com/user-attachments/assets/8664eff7-e768-4870-ae85-340823e68c61)
 
 Dashboards filtered by departments
-# Research and development
+# Research and Development
 ![image](https://github.com/user-attachments/assets/510077a4-dfdf-4ace-a0d9-2c76a4e63102)
 
-# HR
+# Human Resources
 ![image](https://github.com/user-attachments/assets/5f383fbe-5a49-4ef4-a6e6-75ac35e06a7c)
 
 # Sales
